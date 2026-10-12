@@ -20,7 +20,7 @@
         }
 
         .login-header {
-            background-color: #193d82;
+            background-color: #1a4086;
             color: white;
             padding: 25px;
         }
