@@ -10,7 +10,7 @@
                         <h3 class="mb-0 text-white font-weight-bold"><i class="fa fa-map-marker-alt me-2"></i>TRAVELA</h3>
                         <p class="mb-0 small opacity-75">Create your new account</p>
                     </div>
-                    <div class="card-body p-4 p-md-5">
+                    <div class="card-body p-4 p-md-5"
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <label class="form-label fw-bold">Full Name</label>
