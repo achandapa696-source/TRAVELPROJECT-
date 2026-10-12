@@ -10,6 +10,7 @@
             color: #ffffff;
             border-radius: 0 0 16px 16px;
         }
+        
 
         .btn-back-panoramic {
             background: rgba(255, 255, 255, 0.15);
