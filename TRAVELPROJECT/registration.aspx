@@ -23,7 +23,7 @@
                                     <asp:ListItem Value="Female">&nbsp;Female</asp:ListItem>
                                 </asp:RadioButtonList>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6"></div>
                                 <label class="form-label fw-bold">Email Address</label>
                                 <asp:TextBox ID="txteml" runat="server" CssClass="form-control" Placeholder="name@example.com"></asp:TextBox>
                             </div>
